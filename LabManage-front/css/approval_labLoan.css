@@ -212,9 +212,15 @@
   color: #FF3F3B;
   font-size: 0.5rem;
 }
-@media screen and (max-width: 320px) {
-  .labLoan_form {
-    width: 11.91666667rem;
-    margin-left: 1.45833333rem;
-  }
+.table_time {
+  font-size: 0.5rem;
+  color: #000000;
+  text-align: right;
+  display: none;
+  margin-right: 0.54166667rem;
+  margin-bottom: 0.79166667rem;
+  margin-top: 0.95833333rem;
+}
+a:focus {
+  color: #ffff !important;
 }
